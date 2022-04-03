@@ -43,4 +43,4 @@ sns.distplot(orneklem_ort)
 plt.axvline(population.mean(), color='r', linestyle='-')
 plt.show()
 
-# Yorum: Örneklemler ortalamaları popülasyon ortalamaları civarında normal dağılıma uyacak şekilde çıkar.
+# Yorum: Örneklem ortalamaları popülasyon ortalamaları civarında normal dağılıma uyacak şekilde çıkar.
