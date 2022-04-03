@@ -1,6 +1,8 @@
 # Kütüphanelerin Yüklenmesi
 import numpy as np
 
+# Problem: Bir ürün için alıcıların ödemeye hazır oldukları fiyat bilgisi kullanılarak % 95 güven aralığı ile ürününün fiyatını ne önerirdiniz?
+
 # Rassal Olarak Fiyat Listesi Oluşturma
 fiyatlar = np.random.randint(10,110,1000)
 fiyatlar[0:10]
