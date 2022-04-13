@@ -10,7 +10,7 @@ def asalsayi(num):
                 sayi +=1
                 liste.append(i)
             i +=1
-        print(f"Bölünebildiği asa ve asal olmayan sayılar: {liste}")
+        print(f"Bölünebildiği asal ve asal olmayan sayılar: {liste}")
         if sayi == 2:
             return True
         else:
